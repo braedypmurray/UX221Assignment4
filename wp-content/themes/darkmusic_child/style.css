@@ -12,6 +12,10 @@ Template:       darkmusic-blog
   text-decoration: none;
 }
 
+.entry-header h2 a{
+    text-decoration: none;
+}
+
 .site-header {
     background-color: rgb(48, 48, 48);
 }
