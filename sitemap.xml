@@ -7,6 +7,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/silvera-gojira/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/fuel-metallica/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/o-d-polyphia/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/gimme-that-boom-skindred/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -28,6 +48,16 @@
     <url>
         <loc>
             http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/sample-product-page/
         </loc>
     </url>
     <url>

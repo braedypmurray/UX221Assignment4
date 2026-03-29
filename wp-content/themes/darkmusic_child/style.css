@@ -40,3 +40,10 @@ Template:       darkmusic-blog
     padding: 10px;
     color: #fff;
 }
+
+.comments-area {
+    background-color: #5c0000;
+    padding: 20px;
+    margin-top: 30px;
+    border: 1px solid #ddd;
+}
