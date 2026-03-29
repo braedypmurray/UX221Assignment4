@@ -1,0 +1,42 @@
+/*
+Theme Name:     darkmusic_child
+Description:    
+Author:         roadman
+Template:       darkmusic-blog
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.display_only h1 a{
+  color: red;
+  text-decoration: none;
+}
+
+.site-header {
+    background-color: rgb(48, 48, 48);
+}
+
+.main-navigation ul li a {
+     color: red;
+     display: block;
+     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+     text-decoration: none;
+     
+}
+
+.main-navigation ul li a:hover {
+     color: rgb(255, 187, 0);
+     
+}
+
+
+.main-navigation ul li.current-menu-item>a, .main-navigation ul li.current_page_item>a {
+    color: rgb(255, 255, 255);
+}
+
+.footer-copyright {
+    text-align: center;
+    background: #272727;
+    padding: 10px;
+    color: #fff;
+}
