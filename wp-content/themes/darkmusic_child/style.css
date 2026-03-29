@@ -47,3 +47,15 @@ Template:       darkmusic-blog
     margin-top: 30px;
     border: 1px solid #ddd;
 }
+
+.price-table tbody{
+    color: white;
+}
+
+.size-table tbody{
+    color: white;
+}
+
+.weight-table tbody{
+    color: white;
+}

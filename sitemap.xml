@@ -47,17 +47,32 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products-2/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/sample-product-page/
+            http://localhost:8000/products-2/refurbished-10000-days-vinyl-tool/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/refurbished-master-of-reality-black-sabbath/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/refurbished-and-justice-for-all-vinyl-metallica/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/refurbished-vulgar-display-of-power-vinyl-pantera/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/refurbished-when-the-kite-string-pops-vinyl-acid-bath/
         </loc>
     </url>
     <url>
